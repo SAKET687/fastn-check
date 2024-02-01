@@ -10,17 +10,12 @@
       "checksum": "EEE0D28B309DF8B5B4DC78167F699D1EC38B3C37240A687ADAB19D846625B679",
       "size": 26
     },
-    "_config.yml": {
-      "name": "_config.yml",
-      "checksum": "1AE3ABD40E59C2C158E4A8BE33449BA4AAC173A3408F39E85E516A93969F249B",
-      "size": 22
-    },
     "index.ftd": {
       "name": "index.ftd",
       "checksum": "F943C3DD5C17333093DD84FD0061CF49457F3D81D75D07BC1F5EF8A1CB85351C",
       "size": 53
     }
   },
-  "zip_url": "https://github.com/SAKET687/fastn-check/archive/c39713661455c0dc37b8782d23d3a612ae01cdf5.zip",
-  "checksum": "3534851C07B74BE5E6F77A92B344647C128A008A3F67346D122DA4C132126C31"
+  "zip_url": "https://github.com/SAKET687/fastn-check/archive/e47fa754889248ed89d215d1981295b16c471b99.zip",
+  "checksum": "CFE2E34A7CA6243E89589B2079E6FBE7F7FA2BBFECD82EDB96E6FBB331DB0B82"
 }
